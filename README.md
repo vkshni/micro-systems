@@ -11,7 +11,7 @@ Each project focuses on solving a small problem with a complete working system.
 
 1. **ID Generator**  
    - Unique ID generation system.  
-   - [Repository] (https://github.com/vkshni/id-generator-system)
+   - [Repository](https://github.com/vkshni/id-generator-system)
 
 2. **PennyTracker**  
    - CLI expense tracker.  
