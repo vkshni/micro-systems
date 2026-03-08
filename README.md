@@ -15,19 +15,19 @@ state machines, or simple APIs.
 | 1 | ID Generator | Unique ID generation system | Python |
 | 2 | PennyTracker | CLI expense tracker | Python, CSV |
 | 3 | Taski | CLI task manager with state transitions | Python, CSV |
-| 4 | Password Manager (shield) | CLI | Python, JSON |
+| 4 | Password Manager (shield) | CLI based| Python, JSON |
 
 ---
 
 ## Repository Structure
-
+```
 micro-systems/
 │
 ├── week-01-id-generator
 ├── week-02-penny-tracker
 ├── week-03-task-manager
 └── week-04-password-manager
-
+```
 ---
 
 ## Goal
