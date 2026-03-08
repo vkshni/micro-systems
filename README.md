@@ -1,34 +1,27 @@
 # Micro Systems
 
-A collection of small systems I build weekly to improve system design, 
-problem solving, and software engineering skills.
+A collection of small systems I build to practice software engineering 
+and system design concepts.
 
-Each project focuses on one core concept such as CLI tools, file storage,
-state machines, or simple APIs.
-
----
-
-## Systems Built
-
-| Week | Project | Description | Tech |
-|-----|------|------|------|
-| 1 | ID Generator | Unique ID generation system | Python |
-| 2 | PennyTracker | CLI expense tracker | Python, CSV |
-| 3 | Taski | CLI task manager with state transitions | Python, CSV |
-| 4 | Password Manager (shield) | CLI based| Python, JSON |
+Each project focuses on solving a small problem with a complete working system.
 
 ---
 
-## Repository Structure
-```
-micro-systems/
-│
-├── week-01-id-generator
-├── week-02-penny-tracker
-├── week-03-task-manager
-└── week-04-password-manager
-```
+## Projects
+
+1. **ID Generator**  
+   Unique ID generation system.  
+   https://github.com/vkshni/id-generator-system
+
+2. **PennyTracker**  
+   CLI expense tracker.  
+   https://github.com/vkshni/penny-tracker
+
+3. **Taski**  
+   CLI task manager with state transitions.  
+   https://github.com/vkshni/task-manager
 ---
+
 
 ## Goal
 
