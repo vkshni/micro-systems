@@ -17,9 +17,12 @@ Each project focuses on solving a small problem with a complete working system.
    CLI expense tracker.  
    https://github.com/vkshni/penny-tracker
 
-3. **Taski**  
+3. **Taski-Task Manager**  
    CLI task manager with state transitions.  
    https://github.com/vkshni/task-manager
+4. **Shield-Password Manager**
+   CLI password manager.
+   https://github.com/vkshni/password-manager
 ---
 
 
