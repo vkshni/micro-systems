@@ -24,6 +24,10 @@ Each project focuses on solving a small problem with a complete working system.
 4. **Shield - Password Manager**
    - CLI password manager.
    - [Repository](https://github.com/vkshni/password-manager)
+  
+5. **URL Shortener**
+   - CLI URL Shortener.
+   - [Repository](https://github.com/vkshni/url-shortener)
 ---
 
 
