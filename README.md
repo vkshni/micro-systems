@@ -28,6 +28,10 @@ Each project focuses on solving a small problem with a complete working system.
 5. **URL Shortener**
    - CLI URL Shortener.
    - [Repository](https://github.com/vkshni/url-shortener)
+
+6. **Snippet Manager**
+   - CLI Personal Snippet Manager.
+   - [Repository](https://github.com/vkshni/snippet-manager)
 ---
 
 
