@@ -32,6 +32,14 @@ Each project focuses on solving a small problem with a complete working system.
 6. **Snippet Manager**
    - CLI Personal Snippet Manager.
    - [Repository](https://github.com/vkshni/snippet-manager)
+     
+7. **Unified System**
+   - CLI Unified System
+   - [Repository](https://github.com/vkshni/unified-system)
+     
+8. **Contact Manager**
+   - CLI Contact Manager
+   - [Repository](https://github.com/vkshni/ContactManager)
 ---
 
 
